@@ -1,3 +1,6 @@
+
+### 修改英文提示为中文
+
 ---
 title: Camera
 description: Take pictures with the device camera.
