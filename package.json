@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-camera-df",
-  "version": "4.1.1",
+  "name": "dfocus-fm-cordova-plugin-camera",
+  "version": "4.1.0",
   "description": "Cordova Camera Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-camera-df",
+    "id": "dfocus-fm-cordova-plugin-camera",
     "platforms": [
       "android",
       "ios",
